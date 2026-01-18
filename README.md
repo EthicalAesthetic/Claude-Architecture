@@ -1,4 +1,4 @@
-# Claude Architecture & Agent Creation - Assignment Submission
+# Claude Architecture & Agent Creation
 
 **Course:** AI Systems & Agentic Workflows  
 **Assignment:** Understanding Claude's Architecture and Agent Creation  
